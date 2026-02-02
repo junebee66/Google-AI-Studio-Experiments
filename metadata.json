@@ -1,0 +1,8 @@
+{
+  "name": "ISS Unreal Engine Visual Quality Test by June Bee",
+  "description": "",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
